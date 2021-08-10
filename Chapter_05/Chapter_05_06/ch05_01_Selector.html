@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-07 17:49:04
- * @LastEditTime: 2021-08-09 14:02:24
+ * @LastEditTime: 2021-08-10 19:02:25
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \CSS\Chapter_05\Chapter_05_06\ch05_01_Selector.html
@@ -14,7 +14,21 @@
        <style type="text/css">
           .brand{
               color: #FF3300;
-          } 
+          }
+         img[alt~="Logo"] {
+             width: 80px;
+             height: 80px;
+         }
+         a[href^="https://"]{
+          color: #FF000000;
+          text-decoration: none;   
+         }
+        img{
+            border: 1px solid #000;
+        }
+        a[href*="JavaScript"]{
+            background-color: yellow;
+        }
        </style>
     </head>
     <body>
