@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="202108121700css" />
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="202108121700css">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_05/Chapter_05_03/ch05_00_Loading_import.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_03/ch05_00_Loading_import.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -31,6 +35,9 @@
       <option name="presentableId" value="Default" />
       <updated>1628758766663</updated>
       <workItem from="1628758768101" duration="58000" />
+      <workItem from="1628762615319" duration="362000" />
+      <workItem from="1628762998934" duration="322000" />
+      <workItem from="1628763344637" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -55,6 +62,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="202108121700css" />
