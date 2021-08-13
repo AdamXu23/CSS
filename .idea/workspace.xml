@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="202108121822css">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="202108131402css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +37,7 @@
       <workItem from="1628763344637" duration="176000" />
       <workItem from="1628763540913" duration="335000" />
       <workItem from="1628834285214" duration="222000" />
+      <workItem from="1628834555085" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -54,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628763738078</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="202108131402css">
+      <created>1628834590598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628834590598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +81,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="202108121700css" />
     <MESSAGE value="202108121822css" />
-    <option name="LAST_COMMIT_MESSAGE" value="202108121822css" />
+    <MESSAGE value="202108131402css" />
+    <option name="LAST_COMMIT_MESSAGE" value="202108131402css" />
   </component>
 </project>
