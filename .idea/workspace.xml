@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="202108131402css" />
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1429">
+      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_07/ch05_07_01_Pseudo_Classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,12 +26,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_05/Chapter_05_07" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\CSS\Chapter_05\Chapter_05_07" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,6 +55,8 @@
       <workItem from="1628834285214" duration="222000" />
       <workItem from="1628834555085" duration="193000" />
       <workItem from="1628834813380" duration="329000" />
+      <workItem from="1630391242657" duration="435000" />
+      <workItem from="1630404440076" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -68,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628834965986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CSS_20210831-1429">
+      <created>1630391385394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630391385394</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +115,7 @@
     <MESSAGE value="202108121700css" />
     <MESSAGE value="202108121822css" />
     <MESSAGE value="202108131402css" />
-    <option name="LAST_COMMIT_MESSAGE" value="202108131402css" />
+    <MESSAGE value="CSS_20210831-1429" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1429" />
   </component>
 </project>
