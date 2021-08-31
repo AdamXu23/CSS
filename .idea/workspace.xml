@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1429">
-      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_07/ch05_07_01_Pseudo_Classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1838" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +54,7 @@
       <workItem from="1628834813380" duration="329000" />
       <workItem from="1630391242657" duration="435000" />
       <workItem from="1630404440076" duration="1683000" />
+      <workItem from="1630406160384" duration="236000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -93,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630391385394</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CSS_20210831-1838">
+      <created>1630406329196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630406329196</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +121,7 @@
     <MESSAGE value="202108121822css" />
     <MESSAGE value="202108131402css" />
     <MESSAGE value="CSS_20210831-1429" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1429" />
+    <MESSAGE value="CSS_20210831-1838" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1838" />
   </component>
 </project>
