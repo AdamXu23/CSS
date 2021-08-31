@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1838">
-      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_07/ch05_07_02_child_Pseudo_Classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1702">
+      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_07/ch05_07_03_Of_Type_Pseudo_Classes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1wcXHrZlDe0dKjf33YwWXZfTaeC" />
   <component name="ProjectViewState">
@@ -67,7 +74,7 @@
       <workItem from="1628834813380" duration="329000" />
       <workItem from="1630391242657" duration="435000" />
       <workItem from="1630404440076" duration="1683000" />
-      <workItem from="1630406160384" duration="1171000" />
+      <workItem from="1630406160384" duration="1656000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -118,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630406406860</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CSS_20210831-1702">
+      <created>1630407725990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630407725990</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +156,8 @@
     <MESSAGE value="202108131402css" />
     <MESSAGE value="CSS_20210831-1429" />
     <MESSAGE value="CSS_20210831-1838" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1838" />
+    <MESSAGE value="CSS_20210831-1702" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1702" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSS$ch05_07_02_child_Pseudo_Classes_html.dat" NAME="ch05_07_02_child_Pseudo_Classes.html 覆盖结果" MODIFIED="1630407022682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
