@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1754">
-      <change afterPath="$PROJECT_DIR$/Chapter_06/Chapter_06_01/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06/Chapter_06_01/ch06_01_Color.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_06/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-2014">
+      <change beforePath="$PROJECT_DIR$/Chapter_06/Chapter_06_01/ch06_01_Color.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_06/Chapter_06_01/ch06_01_Color.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,7 @@
       <workItem from="1630391242657" duration="435000" />
       <workItem from="1630404440076" duration="1683000" />
       <workItem from="1630406160384" duration="5321000" />
-      <workItem from="1630411541905" duration="438000" />
+      <workItem from="1630411541905" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -168,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630410889055</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CSS_20210831-2014">
+      <created>1630412083342</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630412083342</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,9 +200,11 @@
     <MESSAGE value="CSS_20210831-1709" />
     <MESSAGE value="CSS_20210831-1746" />
     <MESSAGE value="CSS_20210831-1754" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1754" />
+    <MESSAGE value="CSS_20210831-2014" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-2014" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSS$ch05_07_02_child_Pseudo_Classes_html.dat" NAME="ch05_07_02_child_Pseudo_Classes.html 覆盖结果" MODIFIED="1630407022682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/CSS$ch06_01_Color_html.dat" NAME="ch06_01_Color.html 覆盖结果" MODIFIED="1630412224018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
