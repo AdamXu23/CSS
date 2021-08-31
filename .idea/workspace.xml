@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1702">
-      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_07/ch05_07_03_Of_Type_Pseudo_Classes.html" afterDir="false" />
+    <list default="true" id="b5775c1e-daba-4dc2-ab98-d605dcad468b" name="更改" comment="CSS_20210831-1709">
+      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_08/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_05/Chapter_05_08/ch05_08_Pseudo_Elements.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +38,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_05/Chapter_05_07" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_05/Chapter_05_08" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\CSS\Chapter_05\Chapter_05_08" />
       <recent name="C:\Users\Administrator\Documents\GitHub\CSS\Chapter_05\Chapter_05_07" />
     </key>
   </component>
@@ -74,7 +76,7 @@
       <workItem from="1628834813380" duration="329000" />
       <workItem from="1630391242657" duration="435000" />
       <workItem from="1630404440076" duration="1683000" />
-      <workItem from="1630406160384" duration="1656000" />
+      <workItem from="1630406160384" duration="3712000" />
     </task>
     <task id="LOCAL-00001" summary="202108121700css">
       <created>1628758807901</created>
@@ -132,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630407725990</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="CSS_20210831-1709">
+      <created>1630408174783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630408174783</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +166,8 @@
     <MESSAGE value="CSS_20210831-1429" />
     <MESSAGE value="CSS_20210831-1838" />
     <MESSAGE value="CSS_20210831-1702" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1702" />
+    <MESSAGE value="CSS_20210831-1709" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS_20210831-1709" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSS$ch05_07_02_child_Pseudo_Classes_html.dat" NAME="ch05_07_02_child_Pseudo_Classes.html 覆盖结果" MODIFIED="1630407022682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
