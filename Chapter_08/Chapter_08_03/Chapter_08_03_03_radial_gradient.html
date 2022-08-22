@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Chapter_08_03_03_radial_gradient</title>
+	<style>
+		div{
+			width: 500px;
+			height: 150px;
+			font-size: 15pt;
+			color: white;
+			text-align: center;
+			line-height: 150px;
+			margin: 10px auto;
+		}
+		.radil1{background:radial-gradient( circle,red,yellow,green );}
+		.radil2{background: radial-gradient( ellipse,red,yellow,green );}
+		.radil3{background: radial-gradient( closest-side at 60% 50%,red,yellow,green );}
+		.radil4{background: radial-gradient( farthest-side at 60% 50%,red,yellow,green );}
+		.radil5{background: radial-gradient( closest-corner at 60% 50%,red,yellow,green );}
+		.radil6{background: radial-gradient( farthest-corner at 60% 50%,red,yellow,green );}
+		.radil7{background: radial-gradient( farthest-corner at 60% 50%,red,yellow,green );}
+	</style>
+</head>
+<body>
+	<div class="radil1">
+		radial-gradient circle
+	</div>
+	<div class="radil2">
+		radial-gradient ellipse
+	</div>
+	<div class="radil3">
+		radial-gradient closest-side at 60% 50%
+	</div>
+	<div class="radil4">
+		radial-gradient farthest-side at 60% 50%
+	</div>
+	<div class="radil5">
+		radial-gradient closest-corner at 60% 50%
+	</div>
+	<div class="radil6">
+		radial-gradient farthest-corner at 60% 50%
+	</div>
+</body>
+</html>
